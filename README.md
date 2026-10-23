@@ -84,4 +84,4 @@ At the same time, the product decisions and final validation remained human-cont
 
 The project submission includes evidence from the actual Codex development workflow where available, including implementation tasks, debugging iterations, repository changes and validation steps.
 
-**Principle:** Codex accelerated engineering; I remained responsible for the product.
+sujith
